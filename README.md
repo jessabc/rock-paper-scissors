@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github][https://your-solution-url.com](https://github.com/jessabc/rock-paper-scissors/)
-- Live Site URL: [Rock, Paper, Scissors Game](https://your-live-site-url.com](https://fun-game-rock-paper-scissors.netlify.app)
+- Solution URL: [Github][https://your-solution-url.com](https://github.com/jessabc/rock-paper-scissors)
+- Live Site URL: [Rock, Paper, Scissors Game](https://fun-game-rock-paper-scissors.netlify.app)
 
 ## My process
 
