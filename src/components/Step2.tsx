@@ -14,7 +14,6 @@ const combos: any = {
 
 interface Props {
   playersChoice: string;
-  setPlayersChoice: React.Dispatch<React.SetStateAction<string>>;
   setShowStep1: React.Dispatch<React.SetStateAction<boolean>>;
   setShowStep2: React.Dispatch<React.SetStateAction<boolean>>;
   setScore: React.Dispatch<React.SetStateAction<number>>;
